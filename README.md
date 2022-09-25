@@ -11,7 +11,7 @@
   <img align="center" alt="Alves-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Alves-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alves-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Alves-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/59/32/6f/59326fe360cd36c836c44e1125cc8a1c.jpg">
+  <img align="right" alt="Alves-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202209/338224_BnVk1L5d.png">
 </div>
   
   ## 
