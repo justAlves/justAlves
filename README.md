@@ -38,15 +38,17 @@
 
 ### 🚀 Projetos em Destaque
 
-> Abaixo você pode listar seus principais projetos. Aqui vai um exemplo de modelo:
+#### 📌 LuaEterna
+📎 [Link para o repositório](https://github.com/justAlves/luaeterna)  
+🧾 SaaS para geração de páginas para casais com fotos da lua de acordo com a data escolhida.
 
-#### 📌 Projeto Nome
-📎 [Link para o repositório](https://github.com/seu-usuario/projeto-nome)  
-🧾 Descrição curta sobre o projeto, stack usada e propósito.
+#### 📌 Soma.
+📎 [Link para o repositório](https://github.com/justAlves/soma)  
+🧾 SaaS de geração de dietas e treinos usando IA, permitindo também acompanhar a sua evolução pelo dashboard
 
-#### 📌 Projeto Nome 2
+#### 📌 Gerador de Documentos
 📎 [Link para o repositório](https://github.com/seu-usuario/projeto-nome2)  
-🧾 Descrição curta aqui também!
+🧾 Extensão para navegadores chromium, permitindo gerar CPF e CNPJ clicando com o botão direito em qualquer campo de texto (input ou textArea), evitando sair para sites externos e economizando tempo
 
 ---
 
@@ -59,28 +61,13 @@
 
 ---
 
-### ⏱️ Tempo de programação (via Wakatime)
-
-<!-- Substitua "seuwakatime" pelo seu user do wakatime -->
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=seuwakatime&theme=tokyonight)](https://wakatime.com/@seuwakatime)
-
----
-
 ### 📬 Contato
 
-- 🌐 [Portfólio](https://seu-portfolio.com)
-- 💼 [LinkedIn](https://linkedin.com/in/seuusuario)
+- 🌐 [Portfólio](https://guialves-dev.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/guilherme-alves-18836a23a/)
 
 ---
 
-### 📄 Currículo
+> Você não pode esperar que o passado mude com um final diferente.
 
-Você pode [📥 baixar meu currículo aqui](https://linkparacurriculo.com) ou entrar em contato para mais informações.
-
----
-
-### 🧩 Extras
-
-> Adicione abaixo o que quiser: citações, gifs, frases motivacionais...
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=justAlves&color=blue" alt="profile views" /> </p>
+<p align="center"> <img src="https://media.giphy.com/media/ianAz6rcKfjoY/giphy.gif?cid=790b76119c7lhuao6eaandiqg0u2cpe69lvxq4elvmbhot94&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="profile views" /> </p>
