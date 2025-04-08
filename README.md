@@ -47,7 +47,7 @@
 🧾 SaaS de geração de dietas e treinos usando IA, permitindo também acompanhar a sua evolução pelo dashboard
 
 #### 📌 Gerador de Documentos
-📎 [Link para o repositório](https://github.com/seu-usuario/projeto-nome2)  
+📎 [Link para o repositório](https://github.com/seu-usuario/cpf-extension)  
 🧾 Extensão para navegadores chromium, permitindo gerar CPF e CNPJ clicando com o botão direito em qualquer campo de texto (input ou textArea), evitando sair para sites externos e economizando tempo
 
 ---
